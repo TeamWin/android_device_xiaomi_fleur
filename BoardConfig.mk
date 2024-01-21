@@ -41,7 +41,7 @@ TARGET_2ND_CPU_VARIANT := cortex-a55
 TARGET_2ND_CPU_VARIANT_RUNTIME := cortex-a55
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := fleur,miel
+TARGET_OTA_ASSERT_DEVICE := fleur,miel,sea,ocean
 
 # AVB
 BOARD_AVB_ENABLE := true
